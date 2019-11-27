@@ -1,0 +1,15 @@
+imGesture(:,:,1)= imresize(im2bw(imread('images\0.png')),[100,100]);
+imGesture(:,:,2)= imresize(im2bw(imread('images\1.png')),[100,100]);
+imGesture(:,:,3)= imresize(im2bw(imread('images\2.png')),[100,100]);
+imGesture(:,:,4)= imresize(im2bw(imread('images\3.png')),[100,100]);
+imGesture(:,:,5)= imresize(im2bw(imread('images\4.png')),[100,100]);
+imGesture(:,:,6)= imresize(im2bw(imread('images\5.png')),[100,100]);
+imGesture(:,:,7)= imresize(im2bw(imread('images\6.png')),[100,100]);
+imGesture(:,:,8)= imresize(im2bw(imread('images\7.png')),[100,100]);
+imGesture(:,:,9)= imresize(im2bw(imread('images\8.png')),[100,100]);
+imGesture(:,:,10)= imresize(im2bw(imread('images\9.png')),[100,100]);
+imGesture(:,:,11)= imresize(im2bw(imread('images\add.png')),[100,100]);
+imGesture(:,:,12)= imresize(im2bw(imread('images\subtract.png')),[100,100]);
+imGesture(:,:,13)= imresize(im2bw(imread('images\multiply.png')),[100,100]);
+imGesture(:,:,14)= imresize(im2bw(imread('images\divide.png')),[100,100]);
+imGesture(:,:,15)= imresize(im2bw(imread('images\equals.png')),[100,100]);
